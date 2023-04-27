@@ -1,0 +1,20 @@
+## Task
+Design a name for our large language model.
+
+
+## Context
+I am developing a fine-tuned large language model that will be useful for retail companies for a variety of use cases (marketing, analyizing customer comments, writing copy, developing product ideas, etc.). Our company is called Blend360 and we do data science and business intelligence consulting. 
+
+Include the letters GPT in some of them (but not all).
+The objectives of the name needs to 
+  1) illustrate the purpose of the model 
+  2) build the Blend360 brand by showing how cool, innovative, and excellent we are at data science things. 
+Try and integrate the concept of the model and possibly the name of our company in the model name. 
+
+One name I like at this time is "BlendLM-Retail". This is a good name because it integrates the name "Blend" into the title, and it rolls off the tongue and it is easy to say. LM means "Language Model" and when we build other similar models we can change the hyphenated suffix at the end to indicate the kind of model it is.
+
+## Instructions
+Invent 20 possible names for our LLM. 
+Create a table with the 20 names. 
+In the first column provide an original name, then provide a rating on a scale of 1-5 determining how good it is. 
+Next column is a short reasoning for the rating, then finally provide an updated model name (if the score is less than 5).
